@@ -15,7 +15,7 @@ To build the Docker container, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/DragorX/myapp.git
+   git clone https://github.com/DragorX/TestProj.git
    ```
 
 2. Navigate to the project directory:
