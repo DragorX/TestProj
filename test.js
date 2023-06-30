@@ -10,7 +10,7 @@ var hexPayloads = [
 // Iterate over the HEX payloads and decode them
 hexPayloads.forEach(function (hexPayload, index) {
     // Decode the HEX payload
-    var decodedData = (0, decoder_1.decodeDraginoLHT65Payload)(hexPayload);
+    var decodedData = (0, decoder_1.decodePayload)(hexPayload);
     // Log the decoded data for verification
     console.log("Decoded data for payload ".concat(index + 1, ":"));
     console.log(decodedData);
