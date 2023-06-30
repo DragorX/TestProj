@@ -70,4 +70,8 @@ To stop the Docker container, press `Ctrl + C` in the terminal where the contain
 
 The configuration for the microservices can be found in the `server.js` file. You can modify the port number or any other configuration settings as needed.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ---
